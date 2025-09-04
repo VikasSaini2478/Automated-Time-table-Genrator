@@ -1,0 +1,21 @@
+teacher_ID,A SEC,B SEC,C SEC,D SEC,E SEC,F SEC
+1,,Math,Economics,Chemistry,Economics,Geography
+2,Math,Physical Education,,Sanskrit,,Hindi
+3,Economics,Geography,Hindi,Psychology,Music,Hindi
+4,Sanskrit,,English,Music,Biology,Biology
+5,Physics,Sanskrit,Geography,Math,,Business Studies
+6,Physical Education,Computer,Music,Music,,Economics
+7,,Sanskrit,Biology,English,Civics,Chemistry
+8,Computer,Business Studies,Hindi,Environmental Science,Biology,
+9,Biology,,,Math,Geography,Civics
+10,,Business Studies,Sanskrit,Math,,Civics
+11,Computer,Physics,Chemistry,Sanskrit,Geography,
+12,Business Studies,Computer,Physical Education,Math,,Civics
+13,Hindi,Psychology,Sanskrit,English,Physics,Environmental Science
+14,Math,Hindi,,History,Economics,Physical Education
+15,Civics,Physics,,Physical Education,Economics,Psychology
+16,Physical Education,Environmental Science,Physical Education,History,Environmental Science,Math
+17,Sanskrit,Physics,,Music,,Music
+18,Psychology,English,Chemistry,Economics,Physics,Computer
+19,Math,Biology,Business Studies,History,,Physical Education
+20,Psychology,Business Studies,English,Computer,Sanskrit,Math
